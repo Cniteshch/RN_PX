@@ -1,5 +1,6 @@
 # RN_PX
 
-to start use command
-"npm start"
- "react-native run-ios" for IOS & "react-native run-andriod" on andriod
+to start use command <br />
+"npm start" <br />
+ "react-native run-ios" for IOS <br />
+ "react-native run-andriod" on andriod
